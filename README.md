@@ -3,6 +3,10 @@
 # Demo
 [Live Demo](https://kareemkermad.github.io/ParticleDynamics/)
 
+# Introduction
+This is an implementation of Physically Based Modelling: Principles and Practice by David Baraff and Andrew Witkin
+https://www.cs.cmu.edu/~baraff/sigcourse/
+
 # Features
 * Sympletic Euler Integration
 * Gravity
