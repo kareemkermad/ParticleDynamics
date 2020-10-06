@@ -1,23 +1,21 @@
-# 2D Particle Dynamics Simulation
+# 2D Particle Dynamics
 
 # Demo
 [Live Demo](https://kareemkermad.github.io/ParticleDynamics/)
 
 # Introduction
-This is an implementation of Physically Based Modelling: Principles and Practice by David Baraff and Andrew Witkin
+This is a JavaScript implementation of the system described in "Physically Based Modelling: Principles and Practice" by David Baraff and Andrew Witkin
 https://www.cs.cmu.edu/~baraff/sigcourse/
 
 # Features
 * Sympletic Euler Integration
-* Gravity
+* Customizable Gravity
 * Viscous Drag
-* Particle-Spring System
-* Particle-Plane Collision Detection, Response, Contact
-* Friction
+* Damped Springs
+* Particle-Plane Collisions
+* Coulomb Friction
 * Restitution
-* Materials
-* User Interaction (mouse springs)
+* User Interaction
 
 # TODO
-* Particle-Particle Collisions
-* Constrained Dynamics
+* Constraint Solver
