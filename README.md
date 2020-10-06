@@ -1,10 +1,8 @@
 # 2D Particle Dynamics
-
-# Demo
 [Live Demo](https://kareemkermad.github.io/ParticleDynamics/)
 
 # Introduction
-This is a JavaScript implementation of the system described in "Physically Based Modelling: Principles and Practice" by David Baraff and Andrew Witkin
+This is a JavaScript implementation of the particle dynamics described in "Physically Based Modelling: Principles and Practice" by David Baraff and Andrew Witkin
 https://www.cs.cmu.edu/~baraff/sigcourse/
 
 # Features
